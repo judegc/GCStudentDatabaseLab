@@ -1,0 +1,15 @@
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\bin\Debug\net6.0\GCLabStudentDatabase.exe
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\bin\Debug\net6.0\GCLabStudentDatabase.deps.json
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\bin\Debug\net6.0\GCLabStudentDatabase.runtimeconfig.json
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\bin\Debug\net6.0\GCLabStudentDatabase.dll
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\bin\Debug\net6.0\GCLabStudentDatabase.pdb
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\obj\Debug\net6.0\GCLabStudentDatabase.csproj.AssemblyReference.cache
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\obj\Debug\net6.0\GCLabStudentDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\obj\Debug\net6.0\GCLabStudentDatabase.AssemblyInfoInputs.cache
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\obj\Debug\net6.0\GCLabStudentDatabase.AssemblyInfo.cs
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\obj\Debug\net6.0\GCLabStudentDatabase.csproj.CoreCompileInputs.cache
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\obj\Debug\net6.0\GCLabStudentDatabase.dll
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\obj\Debug\net6.0\refint\GCLabStudentDatabase.dll
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\obj\Debug\net6.0\GCLabStudentDatabase.pdb
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\obj\Debug\net6.0\GCLabStudentDatabase.genruntimeconfig.cache
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\obj\Debug\net6.0\ref\GCLabStudentDatabase.dll
