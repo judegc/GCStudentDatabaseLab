@@ -13,3 +13,9 @@ C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\
 C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\obj\Debug\net6.0\GCLabStudentDatabase.pdb
 C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\obj\Debug\net6.0\GCLabStudentDatabase.genruntimeconfig.cache
 C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\obj\Debug\net6.0\ref\GCLabStudentDatabase.dll
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\bin\Debug\net6.0\Methods.deps.json
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\bin\Debug\net6.0\Methods.exe
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\bin\Debug\net6.0\Methods.dll
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\bin\Debug\net6.0\Methods.pdb
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\GCLabStudentDatabase\obj\Debug\net6.0\GCLabStudentDatabase.csproj.CopyComplete

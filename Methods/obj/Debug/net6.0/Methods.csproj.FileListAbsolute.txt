@@ -1,0 +1,15 @@
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\Methods\bin\Debug\net6.0\Methods.exe
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\Methods\bin\Debug\net6.0\Methods.deps.json
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\Methods\bin\Debug\net6.0\Methods.dll
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\Methods\bin\Debug\net6.0\Methods.pdb
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\Methods\obj\Debug\net6.0\Methods.dll
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\Methods\obj\Debug\net6.0\refint\Methods.dll
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\Methods\obj\Debug\net6.0\Methods.pdb
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+C:\Users\12489\Repository\GC\Unit3Lab\GCLabStudentDatabase\Methods\obj\Debug\net6.0\ref\Methods.dll

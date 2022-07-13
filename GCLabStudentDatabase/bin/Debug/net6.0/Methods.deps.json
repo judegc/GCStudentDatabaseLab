@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "GCLabStudentDatabase/1.0.0": {
-        "dependencies": {
-          "Methods": "1.0.0"
-        },
-        "runtime": {
-          "GCLabStudentDatabase.dll": {}
-        }
-      },
       "Methods/1.0.0": {
         "runtime": {
           "Methods.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "GCLabStudentDatabase/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Methods/1.0.0": {
       "type": "project",
       "serviceable": false,

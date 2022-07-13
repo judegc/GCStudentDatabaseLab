@@ -1,4 +1,5 @@
-﻿static string StudentListNumber(int num)
+﻿
+string StudentListNumber(int num)
 {
     int[] studentNumber = new int[9];
     studentNumber[0] = 1;
@@ -28,7 +29,7 @@
     return numAndName;
 }
 
-static string StudentListName(string name)
+string StudentListName(string name)
 {
     int[] studentNumber = new int[9];
     studentNumber[0] = 1;
